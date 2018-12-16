@@ -1,0 +1,2 @@
+for ele in dic:
+  
